@@ -1,0 +1,10 @@
+# all required package is given in notebook
+torch>=2.0.0
+transformers>=4.40.0
+trl>=1.0.0
+peft>=0.10.0
+bitsandbytes>=0.46.1
+accelerate>=0.27.0
+datasets>=2.14.0
+huggingface_hub>=0.20.0
+numpy>=1.24.0
